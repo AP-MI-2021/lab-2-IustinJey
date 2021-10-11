@@ -117,5 +117,5 @@ def main():
        
 
 
-if __name__ == '__main1__':
+if __name__ == '__main__':
     main()
